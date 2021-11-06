@@ -1,24 +1,22 @@
 {
-    "token"    : "OTA1NjA0MzQxMTI4Mzg0NTEy.YYMfxA.LXEq-gv0xhZ2JJ7kmG1aAh32ak8",
-    "client_id": "905604341128384512",
-    "prefix": "-",
-	"ticketchannel": "875170189484916826",
-	"ticketarchivecategory": "905805798662344784",
-	"serverid": "834559228004925450",
+  "token": "OTAyOTkzOTgwODIyNzkwMTk1.YXmgrQ.cTovdCwjPLXz-RaiGKIpkjTwSJw",
+  "client_id": "905604341128384512",
+  "prefix": "-",
+  "ticketchannel": "875170189484916826",
+  "ticketarchivecategory": "905805798662344784",
+  "serverid": "834559228004925450",
 
+  "teamroleid": "875183466298372117",
+  "plroleid": "834559228085403696",
+  "adminroleid": "834559228085403691",
+  "modroleid": "868203713091731466",
+  "frakroleid": "834559228017770535",
+  "teamleitungroleid": "834559228085403693",
 
-	"teamroleid": "875183466298372117",
-	"plroleid": "834559228085403696",
-	"adminroleid": "834559228085403691",
-	"modroleid": "868203713091731466",
-	"frakroleid": "834559228017770535",
-	"teamleitungroleid": "834559228085403693",
-
-
-	"supportcategory": "875186079718862941",
-	"entbannungcategory": "901453433859633202",
-	"spendencategory": "901433882426097685",
-	"ruckerstattungcategory": "905805521326600222",
-	"teamcategory": "901773734950629387",
-	"frakcategory": "901453994273177600"
+  "supportcategory": "875186079718862941",
+  "entbannungcategory": "901453433859633202",
+  "spendencategory": "901433882426097685",
+  "ruckerstattungcategory": "905805521326600222",
+  "teamcategory": "901773734950629387",
+  "frakcategory": "901453994273177600"
 }
